@@ -2,3 +2,4 @@ C:\Users\Admin\Google Диск\Универ\Visual Studio 2010\RepositoryGit\Sna
 C:\Users\Admin\Google Диск\Универ\Visual Studio 2010\RepositoryGit\Snake\Snake\bin\Debug\Snake.pdb
 C:\Users\Admin\Google Диск\Универ\Visual Studio 2010\RepositoryGit\Snake\Snake\obj\x86\Debug\Snake.exe
 C:\Users\Admin\Google Диск\Универ\Visual Studio 2010\RepositoryGit\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\Admin\Google Диск\Универ\Visual Studio 2010\RepositoryGit\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
